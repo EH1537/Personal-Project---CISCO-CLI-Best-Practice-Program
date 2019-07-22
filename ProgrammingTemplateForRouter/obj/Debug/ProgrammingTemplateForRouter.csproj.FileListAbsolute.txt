@@ -1,0 +1,11 @@
+D:\visual work\ProgrammingTemplateForRouter\bin\Debug\ProgrammingTemplateForRouter.exe.config
+D:\visual work\ProgrammingTemplateForRouter\bin\Debug\ProgrammingTemplateForRouter.exe
+D:\visual work\ProgrammingTemplateForRouter\bin\Debug\ProgrammingTemplateForRouter.pdb
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.csprojResolveAssemblyReference.cache
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.Form1.resources
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.Properties.Resources.resources
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.csproj.GenerateResource.Cache
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.exe
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.pdb
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.csprojAssemblyReference.cache
+D:\visual work\ProgrammingTemplateForRouter\obj\Debug\ProgrammingTemplateForRouter.csproj.CoreCompileInputs.cache
